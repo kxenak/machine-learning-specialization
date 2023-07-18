@@ -1,5 +1,6 @@
 # machine-learning-specialization
 The Andrew Ng machine learning specialization on Coursera.
+
 This repo contains all the completed labs.
 
 There are three courses in this specialization:
